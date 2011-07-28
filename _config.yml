@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://mammo.github.com
+title: Rather random ramblings
+subtitle: A blog
+author: Amanuel Workneh
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
@@ -28,7 +28,7 @@ plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
 markdown: rdiscount
-pygments: true
+pygments: false
 
 paginate: 10 # Posts per page on the blog index
 recent_posts: 5 # Posts in the sidebar Recent Posts section
@@ -62,3 +62,4 @@ disqus_short_name:
 
 # Google Analytics
 google_analytics_tracking_id:
+
